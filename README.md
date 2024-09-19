@@ -26,7 +26,7 @@ The dataset used for this analysis includes:
 ## Dashboard
 The interactive dashboard created in Power BI provides a visual representation of the findings, including city-wise distribution of properties, average rating per property type, and the correlation between price and reviews.
 
-![Dashboard](./dashboard.png)
+![Dashboard](./Dashboard.png)
 
 ## Conclusion
 The analysis highlights the significance of host reliability, property location, and guest satisfaction in driving Airbnb bookings. By understanding customer preferences and reviewing trends, hosts can optimize their property listings to attract more guests and improve overall satisfaction.
